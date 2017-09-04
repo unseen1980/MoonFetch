@@ -1,0 +1,11 @@
+button:hover {
+  cursor: pointer;
+}
+
+.card-content {
+  min-height: 250px;
+}
+
+.brand-logo {
+  padding-left: 1% !important;
+}
